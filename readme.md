@@ -9,8 +9,8 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, Apr 9 &middot; 17:30 &middot; Online</div>
-  <div class="card-title">LLM: Reasoning Budget</div>
+  <div class="card-meta">Wednesday, Apr 22 &middot; 16:00 &middot; Online</div>
+  <div class="card-title">LLM: Reasoning and Thinking</div>
   <div class="card-desc">Adaptive test-time compute allocation, budget-aware reasoning, and token efficiency for LLMs: SelfBudgeter, BudgetThinker, and conformal risk control.</div>
   <div class="card-footer">
     <span class="tag">LLM</span>
@@ -20,8 +20,8 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 </div>
 
 <div class="card featured">
-  <div class="card-meta">Thursday, Apr 10 &middot; 13:00 &middot; Per timetable</div>
-  <div class="card-title">LLM: Agents and Planning</div>
+  <div class="card-meta">Thursday, Apr 23 &middot; 13:00 &middot; Per timetable</div>
+  <div class="card-title">LLM: Long Context and LLM Memory</div>
   <div class="card-desc">Multi-agent systems, task planning with LLMs, episodic memory, and knowledge graph-powered agent frameworks.</div>
   <div class="card-footer">
     <span class="tag">LLM</span>

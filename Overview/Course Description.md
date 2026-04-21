@@ -16,10 +16,10 @@ All announcements go through your group's **Telegram channel** — make sure you
 
 ## Schedule
 
-| Day | Time | Format |
-|---|---|---|
-| Wednesday | 17:30 | Online |
-| Thursday | 13:00 | Per official timetable |
+| Day | Time | Format | Presenters |
+|---|---|---|---|
+| Wednesday | 17:30 | Online | 2 |
+| Thursday | 13:00 | Per official timetable | 3 |
 
 All sessions are available via Zoom and recorded.
 

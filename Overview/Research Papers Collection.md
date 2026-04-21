@@ -331,6 +331,15 @@
 |------|------|-------|-----|
 | Demystifying Domain-adaptive Post-training for Financial LLMs | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2501.04961) |
 
+## Other
+
+| Name | Year | Venue | URL |
+|------|------|-------|-----|
+| Real-Time Multilingual Sign Language Translation Application | 2025 | arXiv | [ACL](https://aclanthology.org/2024.emnlp-demo.19/) |
+| HyperAgents | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2603.19461) |
+| Test-Time Training Done Right | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2505.23884v1) |
+
+
 ---
 
 ## LLM: Multi-objective Optimization in Project-Resource Planning

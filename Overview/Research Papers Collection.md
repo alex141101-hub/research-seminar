@@ -339,3 +339,13 @@
 |------|------|-------|-----|
 | Learning to Solve Resource-Constrained Project Scheduling Problems with Duration Uncertainty using Graph Neural Networks | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2511.13214) |
 | Dataless Neural Networks for Resource-Constrained Project Scheduling | 2025 | arXiv | [arXiv](https://arxiv.org/abs/2507.05322) |
+
+---
+
+## Other
+
+| Name | Year | Venue | URL |
+|------|------|-------|-----|
+| Real-Time Multilingual Sign Language Translation Application | 2024 | ACL | [ACL](https://aclanthology.org/2024.emnlp-demo.19/) |
+| HyperAgents | 2026 | arXiv | [arXiv](https://arxiv.org/pdf/2603.19461)|
+| Test-Time Training Done Right | 2025 | arXiv | [arXiv](https://arxiv.org/pdf/2505.23884v1) |

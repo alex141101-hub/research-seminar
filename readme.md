@@ -242,6 +242,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">LLM</span>
     <span class="tag">Agents</span>
     <span class="tag">Planning</span>
+    <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 
@@ -254,6 +255,7 @@ A weekly seminar where we read, present, and debate recent papers in data analys
     <span class="tag">Graph RAG</span>
     <span class="tag">RAG</span>
     <span class="tag">Semi-structured Data</span>
+    <a href="https://app.read.ai/analytics/meetings/01KN6VKSDP3Y9CMJGVCSVG15SH?utm_source=Share_CopyLink">Recording</a>
   </div>
 </div>
 

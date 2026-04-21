@@ -26,6 +26,7 @@ All sessions are available via Zoom and recorded.
 ## How It Works
 
 Papers are grouped by topic. At the beginning of the course, students vote for topics — the **14 most popular topics** are discussed at the seminars.
+**Topics from previous seminars will not be repeated in the future. If they have already been held, please choose another topic.**
 
 ## Rules
 

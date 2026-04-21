@@ -9,9 +9,19 @@ A weekly seminar where we read, present, and debate recent papers in data analys
 <div class="card-grid">
 
 <div class="card featured">
-  <div class="card-meta">Wednesday, Apr 9 &middot; 17:30 &middot; Online</div>
-  <div class="card-title">LLM: Reasoning Budget</div>
-  <div class="card-desc">Adaptive test-time compute allocation, budget-aware reasoning, and token efficiency for LLMs: SelfBudgeter, BudgetThinker, and conformal risk control.</div>
+  <div class="card-meta">Wednesday, Apr 22 &middot; 16:00 &middot; Online</div>
+  <div class="card-title">Graph RAG: LightRAG</div>
+  <div class="card-desc">Simple and fast retrieval-augmented generation with graph-based indexing.</div>
+  <div class="card-footer">
+    <span class="tag">Graph RAG</span>
+    <span class="tag">RAG</span>
+  </div>
+</div>
+
+<div class="card featured">
+  <div class="card-meta">Thursday, Apr 23 &middot; 13:00 &middot; Per timetable</div>
+  <div class="card-title">LLM Reasoning: Self-Improving Reasoners + Overthinking</div>
+  <div class="card-desc">Cognitive behaviors that enable self-improving reasoners. ThoughtTerminator: benchmarking, calibrating, and mitigating overthinking in reasoning models.</div>
   <div class="card-footer">
     <span class="tag">LLM</span>
     <span class="tag">Reasoning</span>
@@ -19,15 +29,6 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
-<div class="card featured">
-  <div class="card-meta">Thursday, Apr 10 &middot; 13:00 &middot; Per timetable</div>
-  <div class="card-title">LLM: Agents and Planning</div>
-  <div class="card-desc">Multi-agent systems, task planning with LLMs, episodic memory, and knowledge graph-powered agent frameworks.</div>
-  <div class="card-footer">
-    <span class="tag">LLM</span>
-    <span class="tag">Agents</span>
-    <span class="tag">Planning</span>
-  </div>
 </div>
 
 </div>
@@ -232,10 +233,34 @@ A weekly seminar where we read, present, and debate recent papers in data analys
   </div>
 </div>
 
+
+<div class="card">
+  <div class="card-meta">Thursday, Apr 9 &middot; Seminar 02</div>
+  <div class="card-title"><a href="Posts/Seminar 02.md">LLM-Powered Collaborative Task Planning + TAPAS: Multi-Agent Planning</a></div>
+  <div class="card-desc">Natural-language-to-PDDL constraint translation via two-stage decomposition. Multi-agent framework combining LLMs with symbolic planning: domain modeling, procedural memory, and self-reflection.</div>
+  <div class="card-footer">
+    <span class="tag">LLM</span>
+    <span class="tag">Agents</span>
+    <span class="tag">Planning</span>
+  </div>
+</div>
+
+
+<div class="card">
+  <div class="card-meta">Wednesday, Apr 15 &middot; Seminar 03</div>
+  <div class="card-title"><a href="Posts/Seminar 03.md">GRAG + FastRAG: Graph Retrieval Methods</a></div>
+  <div class="card-desc">Graph Retrieval-Augmented Generation with ego-graph retrieval, soft pruning, and dual-view prompting. FastRAG pipeline for semi-structured data: entropy-based chunk sampling, schema learning, and hybrid KG+text retrieval.</div>
+  <div class="card-footer">
+    <span class="tag">Graph RAG</span>
+    <span class="tag">RAG</span>
+    <span class="tag">Semi-structured Data</span>
+  </div>
+</div>
+
 </div>
 
 <hr class="tds-divider">
 
-* [Course Description](Overview/Course Description.md)
-* [Course Grading](Overview/Course Graiding.md)
-* [Research Papers Collection](Overview/Research Papers Collection.md)
+* <div class="card-title"><a href="Overview/Course Description.md">Course Description</a></div>
+* <div class="card-title"><a href="Overview/Course Graiding.md">Course Grading</a></div>
+* <div class="card-title"><a href="Overview/Research Papers Collection.md">Research Papers Collection</a></div> 
